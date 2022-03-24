@@ -95,7 +95,7 @@ p {
     color: #ffffff;
 }
 
-.benefits h3 {
+.benefits h2 {
     margin-bottom: 10px;
     text-align: center;
     color: #ffffff;
@@ -118,7 +118,7 @@ p {
 .about-article img {
     max-height: 200px;
 }
-.about-article h2 {
+.about-article h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
